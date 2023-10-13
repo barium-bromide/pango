@@ -1,0 +1,94 @@
+:root {
+    --primary-color: #07afd9;
+    }
+    
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    color: var(--primary-color);
+    background-color: black;
+}
+
+::-webkit-scrollbar {
+    width: 1rem;
+}
+
+table{
+    width: 100%;
+    color: rgb(150 150 150);
+}
+
+td, th, caption {
+    padding: 1rem;
+}
+
+td, th {
+    background: rgb(255 255 255 / .1);
+    border: 1px solid rgb(255 255 255 / .2);
+    border-radius: .2rem;
+}
+
+
+caption, th {
+    text-align: left;
+}
+
+caption {
+    background: rgb(255 255 255 .05);
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+td[data-cell="merge"] {
+    color: white;
+
+    &:hover {
+        background-color: rgb(255 255 255 / .15);
+    }
+}
+
+a {
+    color: rgb(0 110 255);
+}
+
+.table-container {
+    max-width: 100%;
+    overflow-x: auto;
+}
+
+.info {
+    position: absolute;
+    background-color: black;
+    min-width: 8rem;
+    min-height: 1rem;
+}
+
+::-webkit-scrollbar {
+    width: .5rem;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    border-radius: 1rem;
+    background: rgb(44 44 44); 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    border-radius: 1rem;
+    background: rgb(119 119 119); 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+
+  .hide {
+    visibility: hidden !important;
+  }
