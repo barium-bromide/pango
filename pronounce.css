@@ -12,10 +12,6 @@ body {
     background-color: black;
 }
 
-::-webkit-scrollbar {
-    width: 1rem;
-}
-
 table{
     width: 100%;
     color: rgb(150 150 150);

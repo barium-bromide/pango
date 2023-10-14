@@ -5,10 +5,9 @@ fetch("pronounce.json")
     const pronouncesKeys = Object.keys(pronounces);
 
     pronouncesKeys.forEach((key) => {
-      if (key === "none") return;
-
       const row = tbody.insertRow();
       const cell = row.insertCell();
+
       cell.innerHTML = key;
       cell.dataset.cell = "consonant";
 
