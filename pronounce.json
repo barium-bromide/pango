@@ -1,122 +1,2012 @@
 {
   "": {
-    "a": "<b>a1</b> <br>noun: <br>adjective: <br>verb: <br><b>a2</b> <br>noun: <br>adjective: <br>verb: <br><b>a3</b> <br>noun: <br>adjective: <br>verb: <br><b>a4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "e": "<b>e1</b> <br>noun: <br>adjective: <br>verb: <br><b>e2</b> <br>noun: <br>adjective: <br>verb: <br><b>e3</b> <br>noun: <br>adjective: <br>verb: <br><b>e4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "E": "<b>E1</b> <br>noun: <br>adjective: <br>verb: <br><b>E2</b> <br>noun: <br>adjective: <br>verb: <br><b>E3</b> <br>noun: <br>adjective: <br>verb: <br><b>E4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "i": "<b>i1</b> <br>noun: <br>adjective: <br>verb: <br><b>i2</b> <br>noun: <br>adjective: <br>verb: <br><b>i3</b> <br>noun: <br>adjective: <br>verb: <br><b>i4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "o": "<b>o1</b> <br>noun: <br>adjective: <br>verb: <br><b>o2</b> <br>noun: <br>adjective: <br>verb: <br><b>o3</b> <br>noun: <br>adjective: <br>verb: <br><b>o4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "u": "<b>u1</b> <br>noun: <br>adjective: <br>verb: <br><b>u2</b> <br>noun: <br>adjective: <br>verb: <br><b>u3</b> <br>noun: <br>adjective: <br>verb: <br><b>u4</b> <br>noun: <br>adjective: <br>verb: <br>"
+    "a": {
+      "a1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "a2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "a3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "a4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "e": {
+      "e1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "e2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "e3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "e4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "E": {
+      "E1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "E2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "E3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "E4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "i": {
+      "i1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "i2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "i3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "i4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "o": {
+      "o1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "o2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "o3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "o4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "u": {
+      "u1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "u2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "u3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "u4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    }
   },
   "b": {
-    "ba": "<b>ba1</b> <br>noun: <br>adjective: <br>verb: <br><b>ba2</b> <br>noun: <br>adjective: <br>verb: <br><b>ba3</b> <br>noun: <br>adjective: <br>verb: <br><b>ba4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "be": "<b>be1</b> <br>noun: <br>adjective: <br>verb: <br><b>be2</b> <br>noun: <br>adjective: <br>verb: <br><b>be3</b> <br>noun: <br>adjective: <br>verb: <br><b>be4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "bE": "<b>bE1</b> <br>noun: <br>adjective: <br>verb: <br><b>bE2</b> <br>noun: <br>adjective: <br>verb: <br><b>bE3</b> <br>noun: <br>adjective: <br>verb: <br><b>bE4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "bi": "<b>bi1</b> <br>noun: <br>adjective: <br>verb: <br><b>bi2</b> <br>noun: <br>adjective: <br>verb: <br><b>bi3</b> <br>noun: <br>adjective: <br>verb: <br><b>bi4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "bo": "<b>bo1</b> <br>noun: <br>adjective: <br>verb: <br><b>bo2</b> <br>noun: <br>adjective: <br>verb: <br><b>bo3</b> <br>noun: <br>adjective: <br>verb: <br><b>bo4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "bu": "<b>bu1</b> <br>noun: <br>adjective: <br>verb: <br><b>bu2</b> <br>noun: <br>adjective: <br>verb: <br><b>bu3</b> <br>noun: <br>adjective: <br>verb: <br><b>bu4</b> <br>noun: <br>adjective: <br>verb: <br>"
+    "ba": {
+      "ba1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ba2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ba3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ba4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "be": {
+      "be1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "be2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "be3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "be4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "bE": {
+      "bE1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bE2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bE3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bE4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "bi": {
+      "bi1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bi2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bi3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bi4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "bo": {
+      "bo1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bo2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bo3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bo4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "bu": {
+      "bu1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bu2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bu3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bu4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    }
   },
   "c": {
-    "ca": "<b>ca1</b> <br>noun: <br>adjective: <br>verb: <br><b>ca2</b> <br>noun: <br>adjective: <br>verb: <br><b>ca3</b> <br>noun: <br>adjective: <br>verb: <br><b>ca4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "ce": "<b>ce1</b> <br>noun: <br>adjective: <br>verb: <br><b>ce2</b> <br>noun: <br>adjective: <br>verb: <br><b>ce3</b> <br>noun: <br>adjective: <br>verb: <br><b>ce4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "cE": "<b>cE1</b> <br>noun: <br>adjective: <br>verb: <br><b>cE2</b> <br>noun: <br>adjective: <br>verb: <br><b>cE3</b> <br>noun: <br>adjective: <br>verb: <br><b>cE4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "ci": "<b>ci1</b> <br>noun: <br>adjective: <br>verb: <br><b>ci2</b> <br>noun: <br>adjective: <br>verb: <br><b>ci3</b> <br>noun: <br>adjective: <br>verb: <br><b>ci4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "co": "<b>co1</b> <br>noun: <br>adjective: <br>verb: <br><b>co2</b> <br>noun: <br>adjective: <br>verb: <br><b>co3</b> <br>noun: <br>adjective: <br>verb: <br><b>co4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "cu": "<b>cu1</b> <br>noun: <br>adjective: <br>verb: <br><b>cu2</b> <br>noun: <br>adjective: <br>verb: <br><b>cu3</b> <br>noun: <br>adjective: <br>verb: <br><b>cu4</b> <br>noun: <br>adjective: <br>verb: <br>"
+    "ca": {
+      "ca1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ca2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ca3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ca4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "ce": {
+      "ce1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ce2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ce3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ce4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "cE": {
+      "cE1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "cE2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "cE3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "cE4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "ci": {
+      "ci1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ci2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ci3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ci4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "co": {
+      "co1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "co2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "co3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "co4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "cu": {
+      "cu1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "cu2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "cu3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "cu4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    }
   },
   "d": {
-    "da": "<b>da1</b> <br>noun: <br>adjective: <br>verb: <br><b>da2</b> <br>noun: <br>adjective: <br>verb: <br><b>da3</b> <br>noun: <br>adjective: <br>verb: <br><b>da4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "de": "<b>de1</b> <br>noun: <br>adjective: <br>verb: <br><b>de2</b> <br>noun: <br>adjective: <br>verb: <br><b>de3</b> <br>noun: <br>adjective: <br>verb: <br><b>de4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "dE": "<b>dE1</b> <br>noun: <br>adjective: <br>verb: <br><b>dE2</b> <br>noun: <br>adjective: <br>verb: <br><b>dE3</b> <br>noun: <br>adjective: <br>verb: <br><b>dE4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "di": "<b>di1</b> <br>noun: <br>adjective: <br>verb: <br><b>di2</b> <br>noun: <br>adjective: <br>verb: <br><b>di3</b> <br>noun: <br>adjective: <br>verb: <br><b>di4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "do": "<b>do1</b> <br>noun: <br>adjective: <br>verb: <br><b>do2</b> <br>noun: <br>adjective: <br>verb: <br><b>do3</b> <br>noun: <br>adjective: <br>verb: <br><b>do4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "du": "<b>du1</b> <br>noun: <br>adjective: <br>verb: <br><b>du2</b> <br>noun: <br>adjective: <br>verb: <br><b>du3</b> <br>noun: <br>adjective: <br>verb: <br><b>du4</b> <br>noun: <br>adjective: <br>verb: <br>"
+    "da": {
+      "da1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "da2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "da3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "da4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "de": {
+      "de1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "de2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "de3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "de4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "dE": {
+      "dE1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "dE2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "dE3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "dE4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "di": {
+      "di1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "di2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "di3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "di4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "do": {
+      "do1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "do2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "do3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "do4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "du": {
+      "du1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "du2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "du3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "du4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    }
   },
   "f": {
-    "fa": "<b>fa1</b> <br>noun: <br>adjective: <br>verb: <br><b>fa2</b> <br>noun: <br>adjective: <br>verb: <br><b>fa3</b> <br>noun: <br>adjective: <br>verb: <br><b>fa4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "fe": "<b>fe1</b> <br>noun: <br>adjective: <br>verb: <br><b>fe2</b> <br>noun: <br>adjective: <br>verb: <br><b>fe3</b> <br>noun: <br>adjective: <br>verb: <br><b>fe4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "fE": "<b>fE1</b> <br>noun: <br>adjective: <br>verb: <br><b>fE2</b> <br>noun: <br>adjective: <br>verb: <br><b>fE3</b> <br>noun: <br>adjective: <br>verb: <br><b>fE4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "fi": "<b>fi1</b> <br>noun: <br>adjective: <br>verb: <br><b>fi2</b> <br>noun: <br>adjective: <br>verb: <br><b>fi3</b> <br>noun: <br>adjective: <br>verb: <br><b>fi4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "fo": "<b>fo1</b> <br>noun: <br>adjective: <br>verb: <br><b>fo2</b> <br>noun: <br>adjective: <br>verb: <br><b>fo3</b> <br>noun: <br>adjective: <br>verb: <br><b>fo4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "fu": "<b>fu1</b> <br>noun: <br>adjective: <br>verb: <br><b>fu2</b> <br>noun: <br>adjective: <br>verb: <br><b>fu3</b> <br>noun: <br>adjective: <br>verb: <br><b>fu4</b> <br>noun: <br>adjective: <br>verb: <br>"
+    "fa": {
+      "fa1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "fa2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "fa3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "fa4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "fe": {
+      "fe1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "fe2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "fe3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "fe4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "fE": {
+      "fE1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "fE2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "fE3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "fE4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "fi": {
+      "fi1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "fi2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "fi3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "fi4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "fo": {
+      "fo1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "fo2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "fo3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "fo4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "fu": {
+      "fu1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "fu2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "fu3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "fu4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    }
   },
   "g": {
-    "ga": "<b>ga1</b> <br>noun: <br>adjective: <br>verb: <br><b>ga2</b> <br>noun: <br>adjective: <br>verb: <br><b>ga3</b> <br>noun: <br>adjective: <br>verb: <br><b>ga4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "ge": "<b>ge1</b> <br>noun: <br>adjective: <br>verb: <br><b>ge2</b> <br>noun: <br>adjective: <br>verb: <br><b>ge3</b> <br>noun: <br>adjective: <br>verb: <br><b>ge4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "gE": "<b>gE1</b> <br>noun: <br>adjective: <br>verb: <br><b>gE2</b> <br>noun: <br>adjective: <br>verb: <br><b>gE3</b> <br>noun: <br>adjective: <br>verb: <br><b>gE4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "gi": "<b>gi1</b> <br>noun: <br>adjective: <br>verb: <br><b>gi2</b> <br>noun: <br>adjective: <br>verb: <br><b>gi3</b> <br>noun: <br>adjective: <br>verb: <br><b>gi4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "go": "<b>go1</b> <br>noun: <br>adjective: <br>verb: <br><b>go2</b> <br>noun: <br>adjective: <br>verb: <br><b>go3</b> <br>noun: <br>adjective: <br>verb: <br><b>go4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "gu": "<b>gu1</b> <br>noun: <br>adjective: <br>verb: <br><b>gu2</b> <br>noun: <br>adjective: <br>verb: <br><b>gu3</b> <br>noun: <br>adjective: <br>verb: <br><b>gu4</b> <br>noun: <br>adjective: <br>verb: <br>"
+    "ga": {
+      "ga1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ga2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ga3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ga4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "ge": {
+      "ge1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ge2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ge3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ge4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "gE": {
+      "gE1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "gE2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "gE3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "gE4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "gi": {
+      "gi1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "gi2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "gi3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "gi4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "go": {
+      "go1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "go2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "go3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "go4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "gu": {
+      "gu1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "gu2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "gu3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "gu4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    }
   },
   "h": {
-    "ha": "<b>ha1</b> <br>noun: <br>adjective: <br>verb: <br><b>ha2</b> <br>noun: <br>adjective: <br>verb: <br><b>ha3</b> <br>noun: <br>adjective: <br>verb: <br><b>ha4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "he": "<b>he1</b> <br>noun: <br>adjective: <br>verb: <br><b>he2</b> <br>noun: <br>adjective: <br>verb: <br><b>he3</b> <br>noun: <br>adjective: <br>verb: <br><b>he4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "hE": "<b>hE1</b> <br>noun: <br>adjective: <br>verb: <br><b>hE2</b> <br>noun: <br>adjective: <br>verb: <br><b>hE3</b> <br>noun: <br>adjective: <br>verb: <br><b>hE4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "hi": "<b>hi1</b> <br>noun: <br>adjective: <br>verb: <br><b>hi2</b> <br>noun: <br>adjective: <br>verb: <br><b>hi3</b> <br>noun: <br>adjective: <br>verb: <br><b>hi4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "ho": "<b>ho1</b> <br>noun: <br>adjective: <br>verb: <br><b>ho2</b> <br>noun: <br>adjective: <br>verb: <br><b>ho3</b> <br>noun: <br>adjective: <br>verb: <br><b>ho4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "hu": "<b>hu1</b> <br>noun: <br>adjective: <br>verb: <br><b>hu2</b> <br>noun: <br>adjective: <br>verb: <br><b>hu3</b> <br>noun: <br>adjective: <br>verb: <br><b>hu4</b> <br>noun: <br>adjective: <br>verb: <br>"
+    "ha": {
+      "ha1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ha2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ha3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ha4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "he": {
+      "he1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "he2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "he3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "he4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "hE": {
+      "hE1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "hE2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "hE3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "hE4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "hi": {
+      "hi1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "hi2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "hi3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "hi4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "ho": {
+      "ho1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ho2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ho3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ho4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "hu": {
+      "hu1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "hu2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "hu3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "hu4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    }
   },
   "j": {
-    "ja": "<b>ja1</b> <br>noun: <br>adjective: <br>verb: <br><b>ja2</b> <br>noun: <br>adjective: <br>verb: <br><b>ja3</b> <br>noun: <br>adjective: <br>verb: <br><b>ja4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "je": "<b>je1</b> <br>noun: <br>adjective: <br>verb: <br><b>je2</b> <br>noun: <br>adjective: <br>verb: <br><b>je3</b> <br>noun: <br>adjective: <br>verb: <br><b>je4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "jE": "<b>jE1</b> <br>noun: <br>adjective: <br>verb: <br><b>jE2</b> <br>noun: <br>adjective: <br>verb: <br><b>jE3</b> <br>noun: <br>adjective: <br>verb: <br><b>jE4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "ji": "<b>ji1</b> <br>noun: <br>adjective: <br>verb: <br><b>ji2</b> <br>noun: <br>adjective: <br>verb: <br><b>ji3</b> <br>noun: <br>adjective: <br>verb: <br><b>ji4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "jo": "<b>jo1</b> <br>noun: <br>adjective: <br>verb: <br><b>jo2</b> <br>noun: <br>adjective: <br>verb: <br><b>jo3</b> <br>noun: <br>adjective: <br>verb: <br><b>jo4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "ju": "<b>ju1</b> <br>noun: <br>adjective: <br>verb: <br><b>ju2</b> <br>noun: <br>adjective: <br>verb: <br><b>ju3</b> <br>noun: <br>adjective: <br>verb: <br><b>ju4</b> <br>noun: <br>adjective: <br>verb: <br>"
+    "ja": {
+      "ja1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ja2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ja3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ja4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "je": {
+      "je1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "je2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "je3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "je4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "jE": {
+      "jE1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "jE2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "jE3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "jE4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "ji": {
+      "ji1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ji2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ji3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ji4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "jo": {
+      "jo1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "jo2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "jo3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "jo4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "ju": {
+      "ju1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ju2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ju3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ju4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    }
   },
   "k": {
-    "ka": "<b>ka1</b> <br>noun: <br>adjective: <br>verb: <br><b>ka2</b> <br>noun: <br>adjective: <br>verb: <br><b>ka3</b> <br>noun: <br>adjective: <br>verb: <br><b>ka4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "ke": "<b>ke1</b> <br>noun: <br>adjective: <br>verb: <br><b>ke2</b> <br>noun: <br>adjective: <br>verb: <br><b>ke3</b> <br>noun: <br>adjective: <br>verb: <br><b>ke4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "kE": "<b>kE1</b> <br>noun: <br>adjective: <br>verb: <br><b>kE2</b> <br>noun: <br>adjective: <br>verb: <br><b>kE3</b> <br>noun: <br>adjective: <br>verb: <br><b>kE4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "ki": "<b>ki1</b> <br>noun: <br>adjective: <br>verb: <br><b>ki2</b> <br>noun: <br>adjective: <br>verb: <br><b>ki3</b> <br>noun: <br>adjective: <br>verb: <br><b>ki4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "ko": "<b>ko1</b> <br>noun: <br>adjective: <br>verb: <br><b>ko2</b> <br>noun: <br>adjective: <br>verb: <br><b>ko3</b> <br>noun: <br>adjective: <br>verb: <br><b>ko4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "ku": "<b>ku1</b> <br>noun: <br>adjective: <br>verb: <br><b>ku2</b> <br>noun: <br>adjective: <br>verb: <br><b>ku3</b> <br>noun: <br>adjective: <br>verb: <br><b>ku4</b> <br>noun: <br>adjective: <br>verb: <br>"
+    "ka": {
+      "ka1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ka2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ka3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ka4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "ke": {
+      "ke1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ke2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ke3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ke4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "kE": {
+      "kE1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "kE2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "kE3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "kE4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "ki": {
+      "ki1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ki2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ki3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ki4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "ko": {
+      "ko1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ko2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ko3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ko4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "ku": {
+      "ku1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ku2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ku3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ku4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    }
   },
   "l": {
-    "la": "<b>la1</b> <br>noun: <br>adjective: <br>verb: <br><b>la2</b> <br>noun: <br>adjective: <br>verb: <br><b>la3</b> <br>noun: <br>adjective: <br>verb: <br><b>la4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "le": "<b>le1</b> <br>noun: <br>adjective: <br>verb: <br><b>le2</b> <br>noun: <br>adjective: <br>verb: <br><b>le3</b> <br>noun: <br>adjective: <br>verb: <br><b>le4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "lE": "<b>lE1</b> <br>noun: <br>adjective: <br>verb: <br><b>lE2</b> <br>noun: <br>adjective: <br>verb: <br><b>lE3</b> <br>noun: <br>adjective: <br>verb: <br><b>lE4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "li": "<b>li1</b> <br>noun: <br>adjective: <br>verb: <br><b>li2</b> <br>noun: <br>adjective: <br>verb: <br><b>li3</b> <br>noun: <br>adjective: <br>verb: <br><b>li4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "lo": "<b>lo1</b> <br>noun: <br>adjective: <br>verb: <br><b>lo2</b> <br>noun: <br>adjective: <br>verb: <br><b>lo3</b> <br>noun: <br>adjective: <br>verb: <br><b>lo4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "lu": "<b>lu1</b> <br>noun: <br>adjective: <br>verb: <br><b>lu2</b> <br>noun: <br>adjective: <br>verb: <br><b>lu3</b> <br>noun: <br>adjective: <br>verb: <br><b>lu4</b> <br>noun: <br>adjective: <br>verb: <br>"
+    "la": {
+      "la1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "la2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "la3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "la4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "le": {
+      "le1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "le2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "le3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "le4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "lE": {
+      "lE1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "lE2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "lE3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "lE4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "li": {
+      "li1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "li2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "li3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "li4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "lo": {
+      "lo1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "lo2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "lo3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "lo4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "lu": {
+      "lu1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "lu2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "lu3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "lu4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    }
   },
   "m": {
-    "ma": "<b>ma1</b> <br>noun: <br>adjective: <br>verb: <br><b>ma2</b> <br>noun: <br>adjective: <br>verb: <br><b>ma3</b> <br>noun: <br>adjective: <br>verb: <br><b>ma4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "me": "<b>me1</b> <br>noun: <br>adjective: <br>verb: <br><b>me2</b> <br>noun: <br>adjective: <br>verb: <br><b>me3</b> <br>noun: <br>adjective: <br>verb: <br><b>me4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "mE": "<b>mE1</b> <br>noun: <br>adjective: <br>verb: <br><b>mE2</b> <br>noun: <br>adjective: <br>verb: <br><b>mE3</b> <br>noun: <br>adjective: <br>verb: <br><b>mE4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "mi": "<b>mi1</b> <br>noun: <br>adjective: <br>verb: <br><b>mi2</b> <br>noun: <br>adjective: <br>verb: <br><b>mi3</b> <br>noun: <br>adjective: <br>verb: <br><b>mi4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "mo": "<b>mo1</b> <br>noun: <br>adjective: <br>verb: <br><b>mo2</b> <br>noun: <br>adjective: <br>verb: <br><b>mo3</b> <br>noun: <br>adjective: <br>verb: <br><b>mo4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "mu": "<b>mu1</b> <br>noun: <br>adjective: <br>verb: <br><b>mu2</b> <br>noun: <br>adjective: <br>verb: <br><b>mu3</b> <br>noun: <br>adjective: <br>verb: <br><b>mu4</b> <br>noun: <br>adjective: <br>verb: <br>"
+    "ma": {
+      "ma1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ma2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ma3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ma4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "me": {
+      "me1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "me2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "me3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "me4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "mE": {
+      "mE1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "mE2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "mE3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "mE4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "mi": {
+      "mi1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "mi2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "mi3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "mi4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "mo": {
+      "mo1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "mo2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "mo3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "mo4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "mu": {
+      "mu1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "mu2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "mu3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "mu4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    }
   },
   "n": {
-    "na": "<b>na1</b> <br>noun: <br>adjective: <br>verb: <br><b>na2</b> <br>noun: <br>adjective: <br>verb: <br><b>na3</b> <br>noun: <br>adjective: <br>verb: <br><b>na4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "ne": "<b>ne1</b> <br>noun: <br>adjective: <br>verb: <br><b>ne2</b> <br>noun: <br>adjective: <br>verb: <br><b>ne3</b> <br>noun: <br>adjective: <br>verb: <br><b>ne4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "nE": "<b>nE1</b> <br>noun: <br>adjective: <br>verb: <br><b>nE2</b> <br>noun: <br>adjective: <br>verb: <br><b>nE3</b> <br>noun: <br>adjective: <br>verb: <br><b>nE4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "ni": "<b>ni1</b> <br>noun: <br>adjective: <br>verb: <br><b>ni2</b> <br>noun: <br>adjective: <br>verb: <br><b>ni3</b> <br>noun: <br>adjective: <br>verb: <br><b>ni4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "no": "<b>no1</b> <br>noun: <br>adjective: <br>verb: <br><b>no2</b> <br>noun: <br>adjective: <br>verb: <br><b>no3</b> <br>noun: <br>adjective: <br>verb: <br><b>no4</b> <br>noun: <br>adjective: <br>verb: <br>",
-    "nu": "<b>nu1</b> <br>noun: <br>adjective: <br>verb: <br><b>nu2</b> <br>noun: <br>adjective: <br>verb: <br><b>nu3</b> <br>noun: <br>adjective: <br>verb: <br><b>nu4</b> <br>noun: <br>adjective: <br>verb: <br>"
+    "na": {
+      "na1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "na2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "na3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "na4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "ne": {
+      "ne1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ne2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ne3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ne4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "nE": {
+      "nE1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "nE2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "nE3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "nE4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "ni": {
+      "ni1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ni2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ni3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ni4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "no": {
+      "no1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "no2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "no3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "no4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "nu": {
+      "nu1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "nu2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "nu3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "nu4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    }
   },
   "p": {
-    "pa": "<b>pa1</b> <br> noun: <br> adjective: <br> verb: <br> <b>pa2</b> <br> noun: <br> adjective: <br> verb: <br> <b>pa3</b> <br> noun: <br> adjective: <br> verb: <br> <b>pa4</b> <br> noun: <br> adjective: <br> verb: <br>",
-    "pe": "<b>pe1</b> <br> noun: <br> adjective: <br> verb: <br> <b>pe2</b> <br> noun: <br> adjective: <br> verb: <br> <b>pe3</b> <br> noun: <br> adjective: <br> verb: <br> <b>pe4</b> <br> noun: <br> adjective: <br> verb: <br>",
-    "pE": "<b>pE1</b> <br> noun: <br> adjective: <br> verb: <br> <b>pE2</b> <br> noun: <br> adjective: <br> verb: <br> <b>pE3</b> <br> noun: <br> adjective: <br> verb: <br> <b>pE4</b> <br> noun: <br> adjective: <br> verb: <br>",
-    "pi": "<b>pi1</b> <br> noun: <br> adjective: <br> verb: <br> <b>pi2</b> <br> noun: <br> adjective: <br> verb: <br> <b>pi3</b> <br> noun: <br> adjective: <br> verb: <br> <b>pi4</b> <br> noun: <br> adjective: <br> verb: <br>",
-    "po": "<b>po1</b> <br> noun: <br> adjective: <br> verb: <br> <b>po2</b> <br> noun: <br> adjective: <br> verb: <br> <b>po3</b> <br> noun: <br> adjective: <br> verb: <br> <b>po4</b> <br> noun: <br> adjective: <br> verb: <br>",
-    "pu": "<b>pu1</b> <br> noun: <br> adjective: <br> verb: <br> <b>pu2</b> <br> noun: <br> adjective: <br> verb: <br> <b>pu3</b> <br> noun: <br> adjective: <br> verb: <br> <b>pu4</b> <br> noun: <br> adjective: <br> verb: <br>"
+    "pa": {
+      "pa1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "pa2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "pa3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "pa4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "pe": {
+      "pe1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "pe2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "pe3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "pe4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "pE": {
+      "pE1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "pE2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "pE3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "pE4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "pi": {
+      "pi1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "pi2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "pi3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "pi4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "po": {
+      "po1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "po2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "po3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "po4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "pu": {
+      "pu1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "pu2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "pu3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "pu4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    }
   },
   "s": {
-    "sa": "<b>sa1</b> <br> noun: <br> adjective: <br> verb: <br> <b>sa2</b> <br> noun: <br> adjective: <br> verb: <br> <b>sa3</b> <br> noun: <br> adjective: <br> verb: <br> <b>sa4</b> <br> noun: <br> adjective: <br> verb: <br>",
-    "se": "<b>se1</b> <br> noun: <br> adjective: <br> verb: <br> <b>se2</b> <br> noun: <br> adjective: <br> verb: <br> <b>se3</b> <br> noun: <br> adjective: <br> verb: <br> <b>se4</b> <br> noun: <br> adjective: <br> verb: <br>",
-    "sE": "<b>sE1</b> <br> noun: <br> adjective: <br> verb: <br> <b>sE2</b> <br> noun: <br> adjective: <br> verb: <br> <b>sE3</b> <br> noun: <br> adjective: <br> verb: <br> <b>sE4</b> <br> noun: <br> adjective: <br> verb: <br>",
-    "si": "<b>si1</b> <br> noun: <br> adjective: <br> verb: <br> <b>si2</b> <br> noun: <br> adjective: <br> verb: <br> <b>si3</b> <br> noun: <br> adjective: <br> verb: <br> <b>si4</b> <br> noun: <br> adjective: <br> verb: <br>",
-    "so": "<b>so1</b> <br> noun: <br> adjective: <br> verb: <br> <b>so2</b> <br> noun: <br> adjective: <br> verb: <br> <b>so3</b> <br> noun: <br> adjective: <br> verb: <br> <b>so4</b> <br> noun: <br> adjective: <br> verb: <br>",
-    "su": "<b>su1</b> <br> noun: <br> adjective: <br> verb: <br> <b>su2</b> <br> noun: <br> adjective: <br> verb: <br> <b>su3</b> <br> noun: <br> adjective: <br> verb: <br> <b>su4</b> <br> noun: <br> adjective: <br> verb: <br>"
+    "sa": {
+      "sa1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "sa2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "sa3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "sa4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "se": {
+      "se1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "se2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "se3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "se4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "sE": {
+      "sE1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "sE2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "sE3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "sE4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "si": {
+      "si1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "si2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "si3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "si4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "so": {
+      "so1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "so2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "so3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "so4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "su": {
+      "su1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "su2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "su3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "su4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    }
   },
   "t": {
-    "ta": "<b>ta1</b> <br> noun: <br> adjective: <br> verb: <br> <b>ta2</b> <br> noun: <br> adjective: <br> verb: <br> <b>ta3</b> <br> noun: <br> adjective: <br> verb: <br> <b>ta4</b> <br> noun: <br> adjective: <br> verb: <br>",
-    "te": "<b>te1</b> <br> noun: <br> adjective: <br> verb: <br> <b>te2</b> <br> noun: <br> adjective: <br> verb: <br> <b>te3</b> <br> noun: <br> adjective: <br> verb: <br> <b>te4</b> <br> noun: <br> adjective: <br> verb: <br>",
-    "tE": "<b>tE1</b> <br> noun: <br> adjective: <br> verb: <br> <b>tE2</b> <br> noun: <br> adjective: <br> verb: <br> <b>tE3</b> <br> noun: <br> adjective: <br> verb: <br> <b>tE4</b> <br> noun: <br> adjective: <br> verb: <br>",
-    "ti": "<b>ti1</b> <br> noun: <br> adjective: <br> verb: <br> <b>ti2</b> <br> noun: <br> adjective: <br> verb: <br> <b>ti3</b> <br> noun: <br> adjective: <br> verb: <br> <b>ti4</b> <br> noun: <br> adjective: <br> verb: <br>",
-    "to": "<b>to1</b> <br> noun: <br> adjective: <br> verb: <br> <b>to2</b> <br> noun: <br> adjective: <br> verb: <br> <b>to3</b> <br> noun: <br> adjective: <br> verb: <br> <b>to4</b> <br> noun: <br> adjective: <br> verb: <br>",
-    "tu": "<b>tu1</b> <br> noun: <br> adjective: <br> verb: <br> <b>tu2</b> <br> noun: <br> adjective: <br> verb: <br> <b>tu3</b> <br> noun: <br> adjective: <br> verb: <br> <b>tu4</b> <br> noun: <br> adjective: <br> verb: <br>"
+    "ta": {
+      "ta1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ta2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ta3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ta4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "te": {
+      "te1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "te2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "te3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "te4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "tE": {
+      "tE1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "tE2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "tE3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "tE4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "ti": {
+      "ti1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ti2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ti3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "ti4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "to": {
+      "to1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "to2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "to3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "to4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "tu": {
+      "tu1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "tu2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "tu3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "tu4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    }
   }
 }
