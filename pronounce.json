@@ -1,0 +1,122 @@
+{
+  "": {
+    "a": "<b>a1</b> <br>noun: <br>adjective: <br>verb: <br><b>a2</b> <br>noun: <br>adjective: <br>verb: <br><b>a3</b> <br>noun: <br>adjective: <br>verb: <br><b>a4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "e": "<b>e1</b> <br>noun: <br>adjective: <br>verb: <br><b>e2</b> <br>noun: <br>adjective: <br>verb: <br><b>e3</b> <br>noun: <br>adjective: <br>verb: <br><b>e4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "E": "<b>E1</b> <br>noun: <br>adjective: <br>verb: <br><b>E2</b> <br>noun: <br>adjective: <br>verb: <br><b>E3</b> <br>noun: <br>adjective: <br>verb: <br><b>E4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "i": "<b>i1</b> <br>noun: <br>adjective: <br>verb: <br><b>i2</b> <br>noun: <br>adjective: <br>verb: <br><b>i3</b> <br>noun: <br>adjective: <br>verb: <br><b>i4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "o": "<b>o1</b> <br>noun: <br>adjective: <br>verb: <br><b>o2</b> <br>noun: <br>adjective: <br>verb: <br><b>o3</b> <br>noun: <br>adjective: <br>verb: <br><b>o4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "u": "<b>u1</b> <br>noun: <br>adjective: <br>verb: <br><b>u2</b> <br>noun: <br>adjective: <br>verb: <br><b>u3</b> <br>noun: <br>adjective: <br>verb: <br><b>u4</b> <br>noun: <br>adjective: <br>verb: <br>"
+  },
+  "b": {
+    "ba": "<b>ba1</b> <br>noun: <br>adjective: <br>verb: <br><b>ba2</b> <br>noun: <br>adjective: <br>verb: <br><b>ba3</b> <br>noun: <br>adjective: <br>verb: <br><b>ba4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "be": "<b>be1</b> <br>noun: <br>adjective: <br>verb: <br><b>be2</b> <br>noun: <br>adjective: <br>verb: <br><b>be3</b> <br>noun: <br>adjective: <br>verb: <br><b>be4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "bE": "<b>bE1</b> <br>noun: <br>adjective: <br>verb: <br><b>bE2</b> <br>noun: <br>adjective: <br>verb: <br><b>bE3</b> <br>noun: <br>adjective: <br>verb: <br><b>bE4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "bi": "<b>bi1</b> <br>noun: <br>adjective: <br>verb: <br><b>bi2</b> <br>noun: <br>adjective: <br>verb: <br><b>bi3</b> <br>noun: <br>adjective: <br>verb: <br><b>bi4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "bo": "<b>bo1</b> <br>noun: <br>adjective: <br>verb: <br><b>bo2</b> <br>noun: <br>adjective: <br>verb: <br><b>bo3</b> <br>noun: <br>adjective: <br>verb: <br><b>bo4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "bu": "<b>bu1</b> <br>noun: <br>adjective: <br>verb: <br><b>bu2</b> <br>noun: <br>adjective: <br>verb: <br><b>bu3</b> <br>noun: <br>adjective: <br>verb: <br><b>bu4</b> <br>noun: <br>adjective: <br>verb: <br>"
+  },
+  "c": {
+    "ca": "<b>ca1</b> <br>noun: <br>adjective: <br>verb: <br><b>ca2</b> <br>noun: <br>adjective: <br>verb: <br><b>ca3</b> <br>noun: <br>adjective: <br>verb: <br><b>ca4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "ce": "<b>ce1</b> <br>noun: <br>adjective: <br>verb: <br><b>ce2</b> <br>noun: <br>adjective: <br>verb: <br><b>ce3</b> <br>noun: <br>adjective: <br>verb: <br><b>ce4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "cE": "<b>cE1</b> <br>noun: <br>adjective: <br>verb: <br><b>cE2</b> <br>noun: <br>adjective: <br>verb: <br><b>cE3</b> <br>noun: <br>adjective: <br>verb: <br><b>cE4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "ci": "<b>ci1</b> <br>noun: <br>adjective: <br>verb: <br><b>ci2</b> <br>noun: <br>adjective: <br>verb: <br><b>ci3</b> <br>noun: <br>adjective: <br>verb: <br><b>ci4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "co": "<b>co1</b> <br>noun: <br>adjective: <br>verb: <br><b>co2</b> <br>noun: <br>adjective: <br>verb: <br><b>co3</b> <br>noun: <br>adjective: <br>verb: <br><b>co4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "cu": "<b>cu1</b> <br>noun: <br>adjective: <br>verb: <br><b>cu2</b> <br>noun: <br>adjective: <br>verb: <br><b>cu3</b> <br>noun: <br>adjective: <br>verb: <br><b>cu4</b> <br>noun: <br>adjective: <br>verb: <br>"
+  },
+  "d": {
+    "da": "<b>da1</b> <br>noun: <br>adjective: <br>verb: <br><b>da2</b> <br>noun: <br>adjective: <br>verb: <br><b>da3</b> <br>noun: <br>adjective: <br>verb: <br><b>da4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "de": "<b>de1</b> <br>noun: <br>adjective: <br>verb: <br><b>de2</b> <br>noun: <br>adjective: <br>verb: <br><b>de3</b> <br>noun: <br>adjective: <br>verb: <br><b>de4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "dE": "<b>dE1</b> <br>noun: <br>adjective: <br>verb: <br><b>dE2</b> <br>noun: <br>adjective: <br>verb: <br><b>dE3</b> <br>noun: <br>adjective: <br>verb: <br><b>dE4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "di": "<b>di1</b> <br>noun: <br>adjective: <br>verb: <br><b>di2</b> <br>noun: <br>adjective: <br>verb: <br><b>di3</b> <br>noun: <br>adjective: <br>verb: <br><b>di4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "do": "<b>do1</b> <br>noun: <br>adjective: <br>verb: <br><b>do2</b> <br>noun: <br>adjective: <br>verb: <br><b>do3</b> <br>noun: <br>adjective: <br>verb: <br><b>do4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "du": "<b>du1</b> <br>noun: <br>adjective: <br>verb: <br><b>du2</b> <br>noun: <br>adjective: <br>verb: <br><b>du3</b> <br>noun: <br>adjective: <br>verb: <br><b>du4</b> <br>noun: <br>adjective: <br>verb: <br>"
+  },
+  "f": {
+    "fa": "<b>fa1</b> <br>noun: <br>adjective: <br>verb: <br><b>fa2</b> <br>noun: <br>adjective: <br>verb: <br><b>fa3</b> <br>noun: <br>adjective: <br>verb: <br><b>fa4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "fe": "<b>fe1</b> <br>noun: <br>adjective: <br>verb: <br><b>fe2</b> <br>noun: <br>adjective: <br>verb: <br><b>fe3</b> <br>noun: <br>adjective: <br>verb: <br><b>fe4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "fE": "<b>fE1</b> <br>noun: <br>adjective: <br>verb: <br><b>fE2</b> <br>noun: <br>adjective: <br>verb: <br><b>fE3</b> <br>noun: <br>adjective: <br>verb: <br><b>fE4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "fi": "<b>fi1</b> <br>noun: <br>adjective: <br>verb: <br><b>fi2</b> <br>noun: <br>adjective: <br>verb: <br><b>fi3</b> <br>noun: <br>adjective: <br>verb: <br><b>fi4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "fo": "<b>fo1</b> <br>noun: <br>adjective: <br>verb: <br><b>fo2</b> <br>noun: <br>adjective: <br>verb: <br><b>fo3</b> <br>noun: <br>adjective: <br>verb: <br><b>fo4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "fu": "<b>fu1</b> <br>noun: <br>adjective: <br>verb: <br><b>fu2</b> <br>noun: <br>adjective: <br>verb: <br><b>fu3</b> <br>noun: <br>adjective: <br>verb: <br><b>fu4</b> <br>noun: <br>adjective: <br>verb: <br>"
+  },
+  "g": {
+    "ga": "<b>ga1</b> <br>noun: <br>adjective: <br>verb: <br><b>ga2</b> <br>noun: <br>adjective: <br>verb: <br><b>ga3</b> <br>noun: <br>adjective: <br>verb: <br><b>ga4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "ge": "<b>ge1</b> <br>noun: <br>adjective: <br>verb: <br><b>ge2</b> <br>noun: <br>adjective: <br>verb: <br><b>ge3</b> <br>noun: <br>adjective: <br>verb: <br><b>ge4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "gE": "<b>gE1</b> <br>noun: <br>adjective: <br>verb: <br><b>gE2</b> <br>noun: <br>adjective: <br>verb: <br><b>gE3</b> <br>noun: <br>adjective: <br>verb: <br><b>gE4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "gi": "<b>gi1</b> <br>noun: <br>adjective: <br>verb: <br><b>gi2</b> <br>noun: <br>adjective: <br>verb: <br><b>gi3</b> <br>noun: <br>adjective: <br>verb: <br><b>gi4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "go": "<b>go1</b> <br>noun: <br>adjective: <br>verb: <br><b>go2</b> <br>noun: <br>adjective: <br>verb: <br><b>go3</b> <br>noun: <br>adjective: <br>verb: <br><b>go4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "gu": "<b>gu1</b> <br>noun: <br>adjective: <br>verb: <br><b>gu2</b> <br>noun: <br>adjective: <br>verb: <br><b>gu3</b> <br>noun: <br>adjective: <br>verb: <br><b>gu4</b> <br>noun: <br>adjective: <br>verb: <br>"
+  },
+  "h": {
+    "ha": "<b>ha1</b> <br>noun: <br>adjective: <br>verb: <br><b>ha2</b> <br>noun: <br>adjective: <br>verb: <br><b>ha3</b> <br>noun: <br>adjective: <br>verb: <br><b>ha4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "he": "<b>he1</b> <br>noun: <br>adjective: <br>verb: <br><b>he2</b> <br>noun: <br>adjective: <br>verb: <br><b>he3</b> <br>noun: <br>adjective: <br>verb: <br><b>he4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "hE": "<b>hE1</b> <br>noun: <br>adjective: <br>verb: <br><b>hE2</b> <br>noun: <br>adjective: <br>verb: <br><b>hE3</b> <br>noun: <br>adjective: <br>verb: <br><b>hE4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "hi": "<b>hi1</b> <br>noun: <br>adjective: <br>verb: <br><b>hi2</b> <br>noun: <br>adjective: <br>verb: <br><b>hi3</b> <br>noun: <br>adjective: <br>verb: <br><b>hi4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "ho": "<b>ho1</b> <br>noun: <br>adjective: <br>verb: <br><b>ho2</b> <br>noun: <br>adjective: <br>verb: <br><b>ho3</b> <br>noun: <br>adjective: <br>verb: <br><b>ho4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "hu": "<b>hu1</b> <br>noun: <br>adjective: <br>verb: <br><b>hu2</b> <br>noun: <br>adjective: <br>verb: <br><b>hu3</b> <br>noun: <br>adjective: <br>verb: <br><b>hu4</b> <br>noun: <br>adjective: <br>verb: <br>"
+  },
+  "j": {
+    "ja": "<b>ja1</b> <br>noun: <br>adjective: <br>verb: <br><b>ja2</b> <br>noun: <br>adjective: <br>verb: <br><b>ja3</b> <br>noun: <br>adjective: <br>verb: <br><b>ja4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "je": "<b>je1</b> <br>noun: <br>adjective: <br>verb: <br><b>je2</b> <br>noun: <br>adjective: <br>verb: <br><b>je3</b> <br>noun: <br>adjective: <br>verb: <br><b>je4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "jE": "<b>jE1</b> <br>noun: <br>adjective: <br>verb: <br><b>jE2</b> <br>noun: <br>adjective: <br>verb: <br><b>jE3</b> <br>noun: <br>adjective: <br>verb: <br><b>jE4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "ji": "<b>ji1</b> <br>noun: <br>adjective: <br>verb: <br><b>ji2</b> <br>noun: <br>adjective: <br>verb: <br><b>ji3</b> <br>noun: <br>adjective: <br>verb: <br><b>ji4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "jo": "<b>jo1</b> <br>noun: <br>adjective: <br>verb: <br><b>jo2</b> <br>noun: <br>adjective: <br>verb: <br><b>jo3</b> <br>noun: <br>adjective: <br>verb: <br><b>jo4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "ju": "<b>ju1</b> <br>noun: <br>adjective: <br>verb: <br><b>ju2</b> <br>noun: <br>adjective: <br>verb: <br><b>ju3</b> <br>noun: <br>adjective: <br>verb: <br><b>ju4</b> <br>noun: <br>adjective: <br>verb: <br>"
+  },
+  "k": {
+    "ka": "<b>ka1</b> <br>noun: <br>adjective: <br>verb: <br><b>ka2</b> <br>noun: <br>adjective: <br>verb: <br><b>ka3</b> <br>noun: <br>adjective: <br>verb: <br><b>ka4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "ke": "<b>ke1</b> <br>noun: <br>adjective: <br>verb: <br><b>ke2</b> <br>noun: <br>adjective: <br>verb: <br><b>ke3</b> <br>noun: <br>adjective: <br>verb: <br><b>ke4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "kE": "<b>kE1</b> <br>noun: <br>adjective: <br>verb: <br><b>kE2</b> <br>noun: <br>adjective: <br>verb: <br><b>kE3</b> <br>noun: <br>adjective: <br>verb: <br><b>kE4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "ki": "<b>ki1</b> <br>noun: <br>adjective: <br>verb: <br><b>ki2</b> <br>noun: <br>adjective: <br>verb: <br><b>ki3</b> <br>noun: <br>adjective: <br>verb: <br><b>ki4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "ko": "<b>ko1</b> <br>noun: <br>adjective: <br>verb: <br><b>ko2</b> <br>noun: <br>adjective: <br>verb: <br><b>ko3</b> <br>noun: <br>adjective: <br>verb: <br><b>ko4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "ku": "<b>ku1</b> <br>noun: <br>adjective: <br>verb: <br><b>ku2</b> <br>noun: <br>adjective: <br>verb: <br><b>ku3</b> <br>noun: <br>adjective: <br>verb: <br><b>ku4</b> <br>noun: <br>adjective: <br>verb: <br>"
+  },
+  "l": {
+    "la": "<b>la1</b> <br>noun: <br>adjective: <br>verb: <br><b>la2</b> <br>noun: <br>adjective: <br>verb: <br><b>la3</b> <br>noun: <br>adjective: <br>verb: <br><b>la4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "le": "<b>le1</b> <br>noun: <br>adjective: <br>verb: <br><b>le2</b> <br>noun: <br>adjective: <br>verb: <br><b>le3</b> <br>noun: <br>adjective: <br>verb: <br><b>le4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "lE": "<b>lE1</b> <br>noun: <br>adjective: <br>verb: <br><b>lE2</b> <br>noun: <br>adjective: <br>verb: <br><b>lE3</b> <br>noun: <br>adjective: <br>verb: <br><b>lE4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "li": "<b>li1</b> <br>noun: <br>adjective: <br>verb: <br><b>li2</b> <br>noun: <br>adjective: <br>verb: <br><b>li3</b> <br>noun: <br>adjective: <br>verb: <br><b>li4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "lo": "<b>lo1</b> <br>noun: <br>adjective: <br>verb: <br><b>lo2</b> <br>noun: <br>adjective: <br>verb: <br><b>lo3</b> <br>noun: <br>adjective: <br>verb: <br><b>lo4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "lu": "<b>lu1</b> <br>noun: <br>adjective: <br>verb: <br><b>lu2</b> <br>noun: <br>adjective: <br>verb: <br><b>lu3</b> <br>noun: <br>adjective: <br>verb: <br><b>lu4</b> <br>noun: <br>adjective: <br>verb: <br>"
+  },
+  "m": {
+    "ma": "<b>ma1</b> <br>noun: <br>adjective: <br>verb: <br><b>ma2</b> <br>noun: <br>adjective: <br>verb: <br><b>ma3</b> <br>noun: <br>adjective: <br>verb: <br><b>ma4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "me": "<b>me1</b> <br>noun: <br>adjective: <br>verb: <br><b>me2</b> <br>noun: <br>adjective: <br>verb: <br><b>me3</b> <br>noun: <br>adjective: <br>verb: <br><b>me4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "mE": "<b>mE1</b> <br>noun: <br>adjective: <br>verb: <br><b>mE2</b> <br>noun: <br>adjective: <br>verb: <br><b>mE3</b> <br>noun: <br>adjective: <br>verb: <br><b>mE4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "mi": "<b>mi1</b> <br>noun: <br>adjective: <br>verb: <br><b>mi2</b> <br>noun: <br>adjective: <br>verb: <br><b>mi3</b> <br>noun: <br>adjective: <br>verb: <br><b>mi4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "mo": "<b>mo1</b> <br>noun: <br>adjective: <br>verb: <br><b>mo2</b> <br>noun: <br>adjective: <br>verb: <br><b>mo3</b> <br>noun: <br>adjective: <br>verb: <br><b>mo4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "mu": "<b>mu1</b> <br>noun: <br>adjective: <br>verb: <br><b>mu2</b> <br>noun: <br>adjective: <br>verb: <br><b>mu3</b> <br>noun: <br>adjective: <br>verb: <br><b>mu4</b> <br>noun: <br>adjective: <br>verb: <br>"
+  },
+  "n": {
+    "na": "<b>na1</b> <br>noun: <br>adjective: <br>verb: <br><b>na2</b> <br>noun: <br>adjective: <br>verb: <br><b>na3</b> <br>noun: <br>adjective: <br>verb: <br><b>na4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "ne": "<b>ne1</b> <br>noun: <br>adjective: <br>verb: <br><b>ne2</b> <br>noun: <br>adjective: <br>verb: <br><b>ne3</b> <br>noun: <br>adjective: <br>verb: <br><b>ne4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "nE": "<b>nE1</b> <br>noun: <br>adjective: <br>verb: <br><b>nE2</b> <br>noun: <br>adjective: <br>verb: <br><b>nE3</b> <br>noun: <br>adjective: <br>verb: <br><b>nE4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "ni": "<b>ni1</b> <br>noun: <br>adjective: <br>verb: <br><b>ni2</b> <br>noun: <br>adjective: <br>verb: <br><b>ni3</b> <br>noun: <br>adjective: <br>verb: <br><b>ni4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "no": "<b>no1</b> <br>noun: <br>adjective: <br>verb: <br><b>no2</b> <br>noun: <br>adjective: <br>verb: <br><b>no3</b> <br>noun: <br>adjective: <br>verb: <br><b>no4</b> <br>noun: <br>adjective: <br>verb: <br>",
+    "nu": "<b>nu1</b> <br>noun: <br>adjective: <br>verb: <br><b>nu2</b> <br>noun: <br>adjective: <br>verb: <br><b>nu3</b> <br>noun: <br>adjective: <br>verb: <br><b>nu4</b> <br>noun: <br>adjective: <br>verb: <br>"
+  },
+  "p": {
+    "pa": "<b>pa1</b> <br> noun: <br> adjective: <br> verb: <br> <b>pa2</b> <br> noun: <br> adjective: <br> verb: <br> <b>pa3</b> <br> noun: <br> adjective: <br> verb: <br> <b>pa4</b> <br> noun: <br> adjective: <br> verb: <br>",
+    "pe": "<b>pe1</b> <br> noun: <br> adjective: <br> verb: <br> <b>pe2</b> <br> noun: <br> adjective: <br> verb: <br> <b>pe3</b> <br> noun: <br> adjective: <br> verb: <br> <b>pe4</b> <br> noun: <br> adjective: <br> verb: <br>",
+    "pE": "<b>pE1</b> <br> noun: <br> adjective: <br> verb: <br> <b>pE2</b> <br> noun: <br> adjective: <br> verb: <br> <b>pE3</b> <br> noun: <br> adjective: <br> verb: <br> <b>pE4</b> <br> noun: <br> adjective: <br> verb: <br>",
+    "pi": "<b>pi1</b> <br> noun: <br> adjective: <br> verb: <br> <b>pi2</b> <br> noun: <br> adjective: <br> verb: <br> <b>pi3</b> <br> noun: <br> adjective: <br> verb: <br> <b>pi4</b> <br> noun: <br> adjective: <br> verb: <br>",
+    "po": "<b>po1</b> <br> noun: <br> adjective: <br> verb: <br> <b>po2</b> <br> noun: <br> adjective: <br> verb: <br> <b>po3</b> <br> noun: <br> adjective: <br> verb: <br> <b>po4</b> <br> noun: <br> adjective: <br> verb: <br>",
+    "pu": "<b>pu1</b> <br> noun: <br> adjective: <br> verb: <br> <b>pu2</b> <br> noun: <br> adjective: <br> verb: <br> <b>pu3</b> <br> noun: <br> adjective: <br> verb: <br> <b>pu4</b> <br> noun: <br> adjective: <br> verb: <br>"
+  },
+  "s": {
+    "sa": "<b>sa1</b> <br> noun: <br> adjective: <br> verb: <br> <b>sa2</b> <br> noun: <br> adjective: <br> verb: <br> <b>sa3</b> <br> noun: <br> adjective: <br> verb: <br> <b>sa4</b> <br> noun: <br> adjective: <br> verb: <br>",
+    "se": "<b>se1</b> <br> noun: <br> adjective: <br> verb: <br> <b>se2</b> <br> noun: <br> adjective: <br> verb: <br> <b>se3</b> <br> noun: <br> adjective: <br> verb: <br> <b>se4</b> <br> noun: <br> adjective: <br> verb: <br>",
+    "sE": "<b>sE1</b> <br> noun: <br> adjective: <br> verb: <br> <b>sE2</b> <br> noun: <br> adjective: <br> verb: <br> <b>sE3</b> <br> noun: <br> adjective: <br> verb: <br> <b>sE4</b> <br> noun: <br> adjective: <br> verb: <br>",
+    "si": "<b>si1</b> <br> noun: <br> adjective: <br> verb: <br> <b>si2</b> <br> noun: <br> adjective: <br> verb: <br> <b>si3</b> <br> noun: <br> adjective: <br> verb: <br> <b>si4</b> <br> noun: <br> adjective: <br> verb: <br>",
+    "so": "<b>so1</b> <br> noun: <br> adjective: <br> verb: <br> <b>so2</b> <br> noun: <br> adjective: <br> verb: <br> <b>so3</b> <br> noun: <br> adjective: <br> verb: <br> <b>so4</b> <br> noun: <br> adjective: <br> verb: <br>",
+    "su": "<b>su1</b> <br> noun: <br> adjective: <br> verb: <br> <b>su2</b> <br> noun: <br> adjective: <br> verb: <br> <b>su3</b> <br> noun: <br> adjective: <br> verb: <br> <b>su4</b> <br> noun: <br> adjective: <br> verb: <br>"
+  },
+  "t": {
+    "ta": "<b>ta1</b> <br> noun: <br> adjective: <br> verb: <br> <b>ta2</b> <br> noun: <br> adjective: <br> verb: <br> <b>ta3</b> <br> noun: <br> adjective: <br> verb: <br> <b>ta4</b> <br> noun: <br> adjective: <br> verb: <br>",
+    "te": "<b>te1</b> <br> noun: <br> adjective: <br> verb: <br> <b>te2</b> <br> noun: <br> adjective: <br> verb: <br> <b>te3</b> <br> noun: <br> adjective: <br> verb: <br> <b>te4</b> <br> noun: <br> adjective: <br> verb: <br>",
+    "tE": "<b>tE1</b> <br> noun: <br> adjective: <br> verb: <br> <b>tE2</b> <br> noun: <br> adjective: <br> verb: <br> <b>tE3</b> <br> noun: <br> adjective: <br> verb: <br> <b>tE4</b> <br> noun: <br> adjective: <br> verb: <br>",
+    "ti": "<b>ti1</b> <br> noun: <br> adjective: <br> verb: <br> <b>ti2</b> <br> noun: <br> adjective: <br> verb: <br> <b>ti3</b> <br> noun: <br> adjective: <br> verb: <br> <b>ti4</b> <br> noun: <br> adjective: <br> verb: <br>",
+    "to": "<b>to1</b> <br> noun: <br> adjective: <br> verb: <br> <b>to2</b> <br> noun: <br> adjective: <br> verb: <br> <b>to3</b> <br> noun: <br> adjective: <br> verb: <br> <b>to4</b> <br> noun: <br> adjective: <br> verb: <br>",
+    "tu": "<b>tu1</b> <br> noun: <br> adjective: <br> verb: <br> <b>tu2</b> <br> noun: <br> adjective: <br> verb: <br> <b>tu3</b> <br> noun: <br> adjective: <br> verb: <br> <b>tu4</b> <br> noun: <br> adjective: <br> verb: <br>"
+  }
+}
