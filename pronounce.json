@@ -418,116 +418,116 @@
         "noun": "",
         "adjective": "",
         "verb": ""
+      }
+    },
+    "ben": {
+      "ben1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
       },
-      "ben": {
-        "ben1": {
-          "noun": "",
-          "adjective": "",
-          "verb": ""
-        },
-        "ben2": {
-          "noun": "",
-          "adjective": "",
-          "verb": ""
-        },
-        "ben3": {
-          "noun": "",
-          "adjective": "",
-          "verb": ""
-        },
-        "ben4": {
-          "noun": "",
-          "adjective": "",
-          "verb": ""
-        }
+      "ben2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
       },
-      "bEn": {
-        "bEn1": {
-          "noun": "",
-          "adjective": "",
-          "verb": ""
-        },
-        "bEn2": {
-          "noun": "",
-          "adjective": "",
-          "verb": ""
-        },
-        "bEn3": {
-          "noun": "",
-          "adjective": "",
-          "verb": ""
-        },
-        "bEn4": {
-          "noun": "",
-          "adjective": "",
-          "verb": ""
-        }
+      "ben3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
       },
-      "bin": {
-        "bin1": {
-          "noun": "",
-          "adjective": "",
-          "verb": ""
-        },
-        "bin2": {
-          "noun": "",
-          "adjective": "",
-          "verb": ""
-        },
-        "bin3": {
-          "noun": "",
-          "adjective": "",
-          "verb": ""
-        },
-        "bin4": {
-          "noun": "",
-          "adjective": "",
-          "verb": ""
-        }
+      "ben4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "bEn": {
+      "bEn1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
       },
-      "bon": {
-        "bon1": {
-          "noun": "",
-          "adjective": "",
-          "verb": ""
-        },
-        "bon2": {
-          "noun": "",
-          "adjective": "",
-          "verb": ""
-        },
-        "bon3": {
-          "noun": "",
-          "adjective": "",
-          "verb": ""
-        },
-        "bon4": {
-          "noun": "",
-          "adjective": "",
-          "verb": ""
-        }
+      "bEn2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
       },
-      "bun": {
-        "bun1": {
-          "noun": "",
-          "adjective": "",
-          "verb": ""
-        },
-        "bun2": {
-          "noun": "",
-          "adjective": "",
-          "verb": ""
-        },
-        "bun3": {
-          "noun": "",
-          "adjective": "",
-          "verb": ""
-        },
-        "bun4": {
-          "noun": "",
-          "adjective": "",
-          "verb": ""
-        }
+      "bEn3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bEn4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "bin": {
+      "bin1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bin2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bin3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bin4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "bon": {
+      "bon1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bon2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bon3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bon4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "bun": {
+      "bun1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bun2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bun3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "bun4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
       }
     }
   },
@@ -3102,6 +3102,28 @@
         "verb": ""
       }
     },
+    "nEn": {
+      "nen1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "nEn2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "nEn3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "nEn4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
     "nin": {
       "nin1": {
         "noun": "",
@@ -3341,6 +3363,28 @@
         "verb": ""
       },
       "pen4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "pEn": {
+      "pEn1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "pEn2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "pEn3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "pEn4": {
         "noun": "",
         "adjective": "",
         "verb": ""
@@ -3590,6 +3634,28 @@
         "verb": ""
       }
     },
+    "sEn": {
+      "sEn1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "sEn2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "sEn3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "sEn4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
     "sin": {
       "sin1": {
         "noun": "",
@@ -3829,6 +3895,28 @@
         "verb": ""
       },
       "ten4": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      }
+    },
+    "tEn": {
+      "tEn1": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "tEn2": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "tEn3": {
+        "noun": "",
+        "adjective": "",
+        "verb": ""
+      },
+      "tEn4": {
         "noun": "",
         "adjective": "",
         "verb": ""
